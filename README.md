@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Luong Quang Tung 👋
 
-<!--
-**tquang39/tquang39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Mathematics and Informatics student and an aspiring Backend Engineer based in Vietnam.
 
-Here are some ideas to get you started:
+I mostly work on backend development — deep diving into Java, Spring Boot, building RESTful APIs, and optimizing database system architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have a heavy interest in Advanced Mathematics and Statistics. I love applying Multivariate Statistical Analysis and Nonlinear Optimization models to crack down complex programming problems and algorithm design.
+
+This is a space where I share my core backend projects, experimental microservices, and mathematical scripts. Everything here is written focused on clean code, solid logic, and scalability.
+
+---
+
+### Tools & Tech
+
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate
+- **Data & Math:** R, RStudio, SQL (MySQL/PostgreSQL)
+- **DevOps & Tools:** Maven, Git, Docker, IntelliJ IDEA
+
+---
+
+### Fun Facts:
+
+- ⚽ Big football fan (Manchester City and the Premier League are my constants)
+- 🎱 Spend my free time playing football, reading books, or relaxing with music under the open sky
+- 🎮 Love playing FC online
+- 🎬 Into Asian horror movies and exploring East Asian spiritual symbols
