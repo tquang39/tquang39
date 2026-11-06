@@ -5,6 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Luong+Quang+Tung+%F0%9F%91%8B;Aspiring+Backend+Engineer+%F0%9F%9A%80;Java+%26+Spring+Boot+Ecosystem+%E2%98%95;Math+%26+Optimization+Algorithms+%F0%9F%93%90;Building+Serverless+%26+Interactive+Webs+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
+  <!-- Playful Bongo Cat Animation -->
+  <br/>
+  <img src="assets/bongo-cat.gif" width="130" alt="Bongo Cat" />
+
   <p>
     <em>Harnessing the power of <strong>Mathematical Optimization & Statistics</strong> to architect high-performance, robust backend systems with <strong>Java & Spring Boot</strong>.</em>
   </p>
