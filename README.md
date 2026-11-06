@@ -24,9 +24,18 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tungquang2573@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://www.mancity.com" target="_blank">
+      <img src="https://img.shields.io/badge/Manchester_City-Cityzen-6CABDD?style=for-the-badge&logo=manchestercity&logoColor=white" alt="Man City" />
+    </a>
+    <a href="https://www.premierleague.com" target="_blank">
+      <img src="https://img.shields.io/badge/Premier_League-Enthusiast-3D195B?style=for-the-badge&logo=premierleague&logoColor=white" alt="Premier League" />
+    </a>
   </p>
 
 </div>
+
+<!-- Manchester City Curling Flight Animation -->
+<img src="assets/mancity-flight.svg" width="100%" alt="Manchester City Curving Flight" />
 
 ---
 
@@ -92,8 +101,9 @@
   <summary><strong>🎲 Click to reveal some fun facts beyond coding!</strong></summary>
   <br/>
 
-  - ⚽ **Football:** Die-hard **Manchester City** fan and an avid Premier League follower.
-  - 🎮 **Gaming:** Tactical esports player with a strong passion for **FC Online**.
+  - ⚽ **Football & Manchester City:** Proud **Cityzen** and die-hard Manchester City FC follower. Living for Pep's masterclass tactics, Etihad matchdays, and weekend Premier League thrillers.
+  - 🏆 **Tactical Mindset:** Architecting code with the tactical precision of Pep's tiki-taka — Kevin De Bruyne's vision in system logic & Erling Haaland's lethal execution in bug fixing!
+  - 🎮 **Gaming:** Tactical esports player with a strong passion for **FC Online** (managing a Manchester City squad).
   - 🎬 **Cinema & Culture:** Fascinated by East Asian psychological horror cinema and folkloric spiritual symbolism.
   - 📖 **Downtime:** Reading books, playing football, and unwinding to music under the open sky.
 
