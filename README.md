@@ -63,9 +63,9 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **✨ 70th Anniversary Album** | Web kỷ yếu 3D trực tuyến tương tác không gian ba chiều (Fibonacci sphere, Orbit, Spiral timeline) kỷ niệm 70 năm Khoa Toán - Cơ - Tin học. | `React 19` `Three.js` `GSAP` `TypeScript` `Vite` | [Repo](https://github.com/tquang39/70th-anniversary-album) • [Live Demo](https://tquang39.github.io/70th-anniversary-album/) |
-| **🍡 Ngăn Kẹo** | Bot Telegram thông minh lưu bài viết không ma sát, tự phân loại chủ đề bằng AI (LLM), nhắc đọc 21:00 mỗi tối. Serverless zero-cost & 114 unit tests. | `Cloudflare Workers` `Hono` `D1 SQLite` `TypeScript` | [Repo](https://github.com/tquang39/ngankeo) |
-| **🌐 Personal Portfolio** | Website portfolio cá nhân giới thiệu profile, năng lực kỹ thuật và tổng hợp các dự án kỹ thuật tiêu biểu. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Repo](https://github.com/tquang39/Personal-Porfolio) • [Live Demo](https://tquang39.github.io/Personal-Porfolio/) |
+| **✨ 70th Anniversary Album** | Interactive 3D memory album featuring multi-dimensional viewports (Fibonacci sphere, Orbit ring, Spiral timeline) celebrating 70 years of the Faculty of Mathematics, Mechanics & Informatics. | `React 19` `Three.js` `GSAP` `TypeScript` `Vite` | [Repo](https://github.com/tquang39/70th-anniversary-album) • [Live Demo](https://tquang39.github.io/70th-anniversary-album/) |
+| **🍡 Ngăn Kẹo** | Frictionless Telegram bookmarking bot with AI-powered topic categorization and a 21:00 nightly digest. Serverless zero-cost architecture with 114 unit tests. | `Cloudflare Workers` `Hono` `D1 SQLite` `TypeScript` | [Repo](https://github.com/tquang39/ngankeo) |
+| **🌐 Personal Portfolio** | Personal portfolio website showcasing engineering profile, core backend tech stack, and featured projects. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Repo](https://github.com/tquang39/Personal-Porfolio) • [Live Demo](https://tquang39.github.io/Personal-Porfolio/) |
 
 ---
 
@@ -85,13 +85,13 @@
 ### ⚡ Beyond The Code
 
 <details>
-  <summary><strong>🎲 Click để xem vài điều thú vị ngoài giờ lập trình!</strong></summary>
+  <summary><strong>🎲 Click to reveal some fun facts beyond coding!</strong></summary>
   <br/>
 
-  - ⚽ **Football:** Fan trung thành của **Manchester City** và luôn theo dõi các trận cầu rực lửa tại Premier League.
-  - 🎮 **Gaming:** Game thủ chiến thuật với niềm đam mê lớn cho **FC Online**.
-  - 🎬 **Cinema & Culture:** Thích khám phá phim kinh dị Á Đông và các biểu tượng văn hóa tâm linh truyền thống.
-  - 📖 **Downtime:** Đọc sách, chơi bóng đá hoặc thư giãn với âm nhạc dưới bầu trời thoáng đãng.
+  - ⚽ **Football:** Die-hard **Manchester City** fan and an avid Premier League follower.
+  - 🎮 **Gaming:** Tactical esports player with a strong passion for **FC Online**.
+  - 🎬 **Cinema & Culture:** Fascinated by East Asian psychological horror cinema and folkloric spiritual symbolism.
+  - 📖 **Downtime:** Reading books, playing football, and unwinding to music under the open sky.
 
 </details>
 
