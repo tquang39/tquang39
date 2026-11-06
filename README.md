@@ -17,7 +17,7 @@
     <a href="https://instagram.com/by.tungquang" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-by.tungquang-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:tungquang2573@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
