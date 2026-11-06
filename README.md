@@ -72,7 +72,7 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=tquang39&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tquang39&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tquang39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 </div>
 
