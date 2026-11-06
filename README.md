@@ -17,7 +17,7 @@
     <a href="https://instagram.com/by.tungquang" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-by.tungquang-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:tungquang2573@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tungquang2573@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -72,8 +72,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tquang39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tquang39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tquang39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tquang39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
